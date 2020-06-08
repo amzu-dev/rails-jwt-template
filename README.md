@@ -34,3 +34,6 @@ In case you have a public key to decrypt the JWT token you can follow the instru
 ## To do
 
  - Written some basic tests,  must increase the coverage.
+
+## 
+Happy Coding :) - Venkatesh Balakumar
