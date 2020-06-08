@@ -12,6 +12,14 @@ Versions Used:
 
 # Ruby on Rails Microservices Template
 
+## Architecture Digram
+
+
+![Example Architecture](sample_architecture.png?raw=true "Example Architecture for Public and Private Cloud")
+
+
+## Description
+
 This template has a base ApplicationController, which must be inherited by any controller that tries to expose an API. You can use filter at the ApplicationController level by setting
 
     before_action :authorized
